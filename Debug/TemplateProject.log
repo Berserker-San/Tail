@@ -1,0 +1,6 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Cola.cpp
+C:\Users\11jho\OneDrive\Escritorio\Cola\Cola.cpp(15,16): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\11jho\OneDrive\Escritorio\Cola\Cola.cpp(30,17): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\11jho\OneDrive\Escritorio\Cola\Cola.cpp(47,18): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  TemplateProject.vcxproj -> C:\Users\11jho\OneDrive\Escritorio\Cola\Debug\TemplateProject.exe
